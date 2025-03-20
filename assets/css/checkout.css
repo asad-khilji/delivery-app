@@ -8,3 +8,10 @@ body {
     padding: 10px; 
     border: 1px solid #ccc; 
 }
+
+.btn {
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 25px;
+}
